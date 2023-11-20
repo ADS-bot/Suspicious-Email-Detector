@@ -35,4 +35,4 @@ This Streamlit app uses a Random Forest Classifier to predict whether an input e
 
 ## Model Training
 
-The Random Forest Classifier is trained on a combination of the `mail_data.csv` and `spam_ham_dataset.csv` datasets. The data is pre-processed and transformed using TF-IDF vectorization.
+The Random Forest Classifier is trained on a combination of the `mail_data.csv` and `spam_data.csv` datasets. The data is pre-processed and transformed using TF-IDF vectorization.
